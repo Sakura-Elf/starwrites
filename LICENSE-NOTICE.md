@@ -1,6 +1,6 @@
 # 「スターライツ：」（StarWrites:）ライセンスについて
 
-Copyright © 2026 桜エルフ
+Copyright © 2026 桜エルフ（Sakura-Elf）
 
 ## 0. 名称について
 
@@ -38,7 +38,7 @@ https://creativecommons.org/licenses/by/4.0/
 帰属表示の一例は以下のとおりです。
 
 > 「スターライツ：」（StarWrites:）  
-> 原作：桜エルフ  
+> 原作：桜エルフ（Sakura-Elf）  
 > Licensed under CC BY 4.0
 
 作品名については、正式名称である「スターライツ：」／"StarWrites:" のほか、便宜上「スターライツ」／"StarWrites" と表記しても構いません。
